@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		494E773D220B99A7004C1B19 /* Screen Shot 2019-02-06 at 4.34.49 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 494E773C220B99A7004C1B19 /* Screen Shot 2019-02-06 at 4.34.49 PM.png */; };
 		49BAED27220B87EF00B62252 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49BAED26220B87EF00B62252 /* AppDelegate.swift */; };
 		49BAED29220B87EF00B62252 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49BAED28220B87EF00B62252 /* ViewController.swift */; };
 		49BAED2C220B87EF00B62252 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49BAED2A220B87EF00B62252 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		494E773C220B99A7004C1B19 /* Screen Shot 2019-02-06 at 4.34.49 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2019-02-06 at 4.34.49 PM.png"; sourceTree = "<group>"; };
 		49BAED23220B87EF00B62252 /* Screen1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Screen1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49BAED26220B87EF00B62252 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49BAED28220B87EF00B62252 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				49BAED28220B87EF00B62252 /* ViewController.swift */,
 				49BAED2A220B87EF00B62252 /* Main.storyboard */,
 				49BAED2D220B87F200B62252 /* Assets.xcassets */,
+				494E773C220B99A7004C1B19 /* Screen Shot 2019-02-06 at 4.34.49 PM.png */,
 				49BAED2F220B87F200B62252 /* LaunchScreen.storyboard */,
 				49BAED32220B87F200B62252 /* Info.plist */,
 			);
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49BAED31220B87F200B62252 /* LaunchScreen.storyboard in Resources */,
+				494E773D220B99A7004C1B19 /* Screen Shot 2019-02-06 at 4.34.49 PM.png in Resources */,
 				49BAED2E220B87F200B62252 /* Assets.xcassets in Resources */,
 				49BAED2C220B87EF00B62252 /* Main.storyboard in Resources */,
 			);
